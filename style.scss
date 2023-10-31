@@ -1,0 +1,15 @@
+@import './identic/colors';
+@import './identic/typography';
+@import './identic/mixins';
+@import './identic/btns';
+@import './blocks/card-wrapper';
+@import './blocks/card';
+
+
+* {
+  margin: 0;
+  border: none;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Onest;
+}
